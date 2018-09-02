@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplikasi Tugas</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="forgot_pwd"><u>Forgot Password</u></string>
+    <string-array name="pelangganan">
+        <item>Dito</item>
+        <item>Fikri</item>
+        <item>Sendi</item>
+    </string-array>
+</resources>
